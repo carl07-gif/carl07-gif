@@ -67,7 +67,14 @@
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
     <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#000000" flood-opacity="0.5" />
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" />
+      <feOffset dx="0" dy="10" result="offsetblur" />
+      <feFlood flood-color="#000000" flood-opacity="0.6" />
+      <feComposite in2="offsetblur" operator="in" />
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
     </filter>
   </defs>
 
@@ -169,7 +176,7 @@
   <text x="48" y="106" class="title">NAVEEN CARLIN A</text>
 
   <!-- Professional Subtitle -->
-  <text x="48" y="136" class="subtitle">AI &amp; Computer Vision Specialist &nbsp;•&nbsp; Distributed Systems &nbsp;•&nbsp; Edge IoT</text>
+  <text x="48" y="136" class="subtitle">AI &amp; Computer Vision Specialist • Distributed Systems • Edge IoT</text>
 
   <!-- 4 Interactive Glassmorphism 3D Pills -->
   <g transform="translate(48, 172)">

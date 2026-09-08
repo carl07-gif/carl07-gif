@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= 3D ISOMETRIC VECTOR HERO BANNER ================= -->
-<img src="./assets/banner.svg" alt="Naveen Carlin A - AI & Systems Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/carl07-gif/carl07-gif/main/assets/banner.svg" alt="Naveen Carlin A - AI &amp; Systems Engineer" width="100%" />
 
 <br/>
 
@@ -153,6 +153,6 @@
 <br/>
 
 <!-- ================= 3D VECTOR FOOTER ================= -->
-<img src="./assets/footer.svg" alt="Footer Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/carl07-gif/carl07-gif/main/assets/footer.svg" alt="Footer Banner" width="100%" />
 
 </div>

@@ -137,7 +137,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=carl07-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" width="410" />
+      <img src="https://github-stats-extended.vercel.app/api?username=carl07-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" width="410" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=carl07-gif&theme=tokyonight&hide_border=true&background=0d1117&ring=818CF8&fire=38BDF8&currStreakLabel=818CF8" alt="GitHub Streak" width="410" />
@@ -145,7 +145,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl07-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=94A3B8" alt="Top Languages" width="420" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=carl07-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=94A3B8" alt="Top Languages" width="420" />
     </td>
   </tr>
 </table>
